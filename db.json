@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "id": "2bda",
+      "username": "Anant",
+      "email": "anantsaraswat308@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "type": "lastViewed",
+      "thumbnail": "assets/images/java.jpg",
+      "progress": 21,
+      "title": "Google Data Analytics",
+      "provider": "LinkedIn Learning",
+      "rating": 4.3,
+      "reviews": "133K reviews",
+      "enrolled": "635 Enrolled",
+      "level": "Beginner",
+      "duration": "6 months"
+    },
+    {
+      "id": 2,
+      "type": "lastViewed",
+      "thumbnail": "assets/images/java.jpg",
+      "progress": 10,
+      "title": "Big Data Visualization",
+      "provider": "LinkedIn Learning",
+      "rating": 4.3,
+      "reviews": "133K reviews",
+      "enrolled": "635 Enrolled",
+      "level": "Beginner",
+      "duration": "6 months"
+    },
+    {
+      "id": 3,
+      "type": "lastViewed",
+      "thumbnail": "c",
+      "progress": 80,
+      "title": "Google Cloud Fundamentals",
+      "provider": "LinkedIn Learning",
+      "rating": 4.3,
+      "reviews": "133K reviews",
+      "enrolled": "635 Enrolled",
+      "level": "Beginner",
+      "duration": "6 months"
+    },
+    {
+      "id": 4,
+      "type": "lastViewed",
+      "thumbnail": "assets/images/java.jpg",
+      "progress": 80,
+      "title": "AI for Everyone",
+      "provider": "LinkedIn Learning",
+      "rating": 4.3,
+      "reviews": "133K reviews",
+      "enrolled": "635 Enrolled",
+      "level": "Beginner",
+      "duration": "6 months"
+    },
+    {
+      "id": 5,
+      "type": "newlyLaunched",
+      "thumbnail": "assets/images/java.jpg",
+      "title": "Advanced Python Programming",
+      "provider": "LinkedIn Learning",
+      "rating": 4.8,
+      "reviews": "87K reviews",
+      "enrolled": "900 Enrolled",
+      "level": "Advanced",
+      "duration": "3 months"
+    },
+    {
+      "id": 6,
+      "type": "newlyLaunched",
+      "thumbnail": "assets/images/java.jpg",
+      "title": "AI for Everyone",
+      "provider": "LinkedIn Learning",
+      "rating": 4.3,
+      "reviews": "133K reviews",
+      "enrolled": "635 Enrolled",
+      "level": "Beginner",
+      "duration": "6 months"
+    },
+    {
+      "id": 7,
+      "type": "newlyLaunched",
+      "thumbnail": "assets/images/java.jpg",
+      "title": "Python Network Programming",
+      "provider": "LinkedIn Learning",
+      "rating": 4.6,
+      "reviews": "65K reviews",
+      "enrolled": "700 Enrolled",
+      "level": "Intermediate",
+      "duration": "5 months"
+    },
+    {
+      "id": 8,
+      "type": "newlyLaunched",
+      "thumbnail": "assets/images/java.jpg",
+      "title": "Python Object Oriented Programming",
+      "provider": "LinkedIn Learning",
+      "rating": 4.5,
+      "reviews": "54K reviews",
+      "enrolled": "500 Enrolled",
+      "level": "Intermediate",
+      "duration": "4 months"
+    },
+    {
+      "id": 9,
+      "type": "newlyLaunched",
+      "thumbnail": "assets/images/java.jpg",
+      "title": "Learn Advance Python Programming",
+      "provider": "LinkedIn Learning",
+      "rating": 4.9,
+      "reviews": "120K reviews",
+      "enrolled": "1,500 Enrolled",
+      "level": "Advanced",
+      "duration": "2 months"
+    }
+  ]
+}

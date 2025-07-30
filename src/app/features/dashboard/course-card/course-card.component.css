@@ -1,0 +1,50 @@
+.course-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  padding: 16px;
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.thumbnail {
+  position: relative;
+}
+.thumbnail img {
+  width: 100%;
+  border-radius: 8px;
+}
+.progress-overlay {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: #21c87a;
+  color: #fff;
+  font-size: 0.9rem;
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+.course-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #222;
+}
+.provider {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.95rem;
+  color: #46605a;
+}
+.provider img {
+  width: 18px;
+  height: 18px;
+}
+.meta {
+  font-size: 0.92rem;
+  color: #888;
+}
+.star {
+  color: #f7b500;
+}
